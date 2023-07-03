@@ -14,6 +14,6 @@ create tables like => 1) create database BankSystem;
 7) create table bank(pin varchar(10),date varchar(50),type varchar(30),amount varchar(30));
 
 8) just check the "root name" and  "password" of your mysql and update it in "Con" class in the project
-9) project is ready to execute
+9) project is ready to execute before that place "icon file" in src.
 
 10) for login page  use first click on the signup after that goto my sql and type "select * from login;" 
