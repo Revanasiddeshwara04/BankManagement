@@ -1,6 +1,8 @@
 # BankManagement
 Steps to execute project in your laptop/computer
+
 1)download all the project and open it on your intellij
+    => click on the "Bank-Management Project zip" =>go to "raw view"  and click on that and download it and open it with intellij.
 2)Need to add the jar files Jcalander jar and mysql connector jar which are available with this BankManagement Project/ you can download it from google =>just type "Jcalander jar" and download it from => "toedter" and for "mysql-connector-java-8.0.28.jar" type this in google for mysql connector and download.
 3) for adding jar files in intellij open ->File, Goto->Project Structure =>Libraries=>in this libraries there will be   "+"    Sign click on that add open the jar source and click okay.
 now u need to create database in "mysql-workbench", if u dont have mysql download it and watch how to install it.
